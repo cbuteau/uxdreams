@@ -11,4 +11,5 @@ But beyond that certain concepts can be shared.
 
 ## Layout
 
-+ [Web]('./layout/web.md')
++ [Web](layout/web.md)
++ [Native](layout/native.md)

@@ -5,7 +5,7 @@
 
 1. Error handling always blames the user.
   a. It could be the service times out.
-  b. It could be unforseen things.
+  b. It could be unforeseen things.
 
 ## Strategies
 
